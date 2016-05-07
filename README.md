@@ -1,4 +1,4 @@
-# lol-ini-parser
+# lol-wad-parser
 A parser for .wad files from League of Legends.
 
 ## Download
