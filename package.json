@@ -2,7 +2,7 @@
   "name": "lol-wad-parser",
   "license": "MIT",
   "description": "A parser for .wad files from League of Legends.",
-  "version": "0.10.3",
+  "version": "0.10.4",
   "homepage": "https://github.com/Pupix/lol-wad-parser",
   "author": {
     "name": "Robert Manolea",
@@ -19,7 +19,7 @@
     "lol-file-parser": "^0.10.0",
     "expandjs": "^0.9.0",
     "mkdirp": "*",
-    "xp-fs": "^0.9.0"
+    "fs-extra": "^0.30.0"
   },
   "keywords": [
     "file parser",
