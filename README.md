@@ -38,7 +38,7 @@ It will roughly parse a .wad file from the given path.
 
 ### read(path, cb)
 
-It will read a .wad file from the given path, casting all the data into the right variable.
+It will read a .wad file from the given path, casting all the data into the right variable type.
 
 **Parameters**
 
