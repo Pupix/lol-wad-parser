@@ -1,0 +1,22 @@
+{
+  "46b94b82e2171d9a": "plugins/rcp-fe-lol-navigation/global/default/index.html",
+  "41ccc0a10136dcca": "plugins/rcp-fe-lol-navigation/global/default/bundle.js",
+  "c0efde81df9cea1b": "plugins/rcp-fe-lol-navigation/global/default/bundle.js.map",
+  "349e13273b0df2c4": "plugins/rcp-fe-lol-navigation/global/default/trans.json",
+  "db1b5f40ab786367": "plugins/rcp-fe-lol-navigation/global/default/sfx-nav-button-text-click.ogg",
+  "e0e22fdf5396b34a": "plugins/rcp-fe-lol-navigation/global/default/sfx-servicestatus-button-click-on.ogg",
+  "666903b8a0b214a1": "plugins/rcp-fe-lol-navigation/global/default/sfx-servicestatus-button-click-off.ogg",
+  "8cedd0e2d5e33582": "plugins/rcp-fe-lol-navigation/global/default/anchor-underline.png",
+  "2a9719ea19475bfd": "plugins/rcp-fe-lol-navigation/global/default/store-ip.png",
+  "6f427d2f6cf86cf9": "plugins/rcp-fe-lol-navigation/global/default/store-rp.png",
+  "db249e1ab8645e49": "plugins/rcp-fe-lol-navigation/global/default/button-ticker-blue.png",
+  "a5664439ef9ea50a": "plugins/rcp-fe-lol-navigation/global/default/button-ticker-blue-hover.png",
+  "a98e30cbda96d615": "plugins/rcp-fe-lol-navigation/global/default/button-ticker-blue-active.png",
+  "91400119853c5611": "plugins/rcp-fe-lol-navigation/global/default/button-ticker-red.png",
+  "439ddadda802006f": "plugins/rcp-fe-lol-navigation/global/default/button-ticker-red-hover.png",
+  "64e85d48a50b04dc": "plugins/rcp-fe-lol-navigation/global/default/button-ticker-red-active.png",
+  "4637a584e0ed3b27": "plugins/rcp-fe-lol-navigation/global/default/button-ticker-yellow.png",
+  "82e58cafe41c64f2": "plugins/rcp-fe-lol-navigation/global/default/button-ticker-yellow-hover.png",
+  "ddd61a554f884f6e": "plugins/rcp-fe-lol-navigation/global/default/button-ticker-yellow-active.png",
+  "f06f7413bedbdab9": "plugins/rcp-fe-lol-navigation/global/default/external-link-mask.png"
+}

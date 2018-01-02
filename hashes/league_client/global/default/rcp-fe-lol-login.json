@@ -1,0 +1,13 @@
+{
+  "22c50a0880e705e1": "plugins/rcp-fe-lol-login/global/default/index.html",
+  "86c46cea7da621bd": "plugins/rcp-fe-lol-login/global/default/bundle.js",
+  "a0bbac542d4cda9b": "plugins/rcp-fe-lol-login/global/default/bundle.js.map",
+  "73085f9c6d666b9e": "plugins/rcp-fe-lol-login/global/default/lol-logo.png",
+  "e884de665ea13f2f": "plugins/rcp-fe-lol-login/global/default/capslock.png",
+  "ce5c3c7968bb3bc7": "plugins/rcp-fe-lol-login/global/default/spinner.png",
+  "dd2924aa46bab195": "plugins/rcp-fe-lol-login/global/default/external-link-mask.png",
+  "c63fd79d4a404b80": "plugins/rcp-fe-lol-login/global/default/lol_logo.png",
+  "dca06b2914114271": "plugins/rcp-fe-lol-login/global/default/sfx-login-button-signin-hover.ogg",
+  "eb71f42025534675": "plugins/rcp-fe-lol-login/global/default/sfx-login-button-signin-click.ogg",
+  "1f6898a7c8d87eae": "plugins/rcp-fe-lol-login/global/default/trans.json"
+}

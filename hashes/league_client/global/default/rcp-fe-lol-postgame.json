@@ -1,0 +1,11 @@
+{
+  "d659c69689dbfd89": "plugins/rcp-fe-lol-postgame/global/default/index.html",
+  "ca16b87f848f8aef": "plugins/rcp-fe-lol-postgame/global/default/bundle.js",
+  "36164ce58daf583d": "plugins/rcp-fe-lol-postgame/global/default/bundle.js.map",
+  "5f97e7b0c41006a0": "plugins/rcp-fe-lol-postgame/global/default/1.bundle.js",
+  "64ca7c884177f999": "plugins/rcp-fe-lol-postgame/global/default/trans.json",
+  "df17a422b16959f3": "plugins/rcp-fe-lol-postgame/global/default/sfx-postgame-button-playagain-hover.ogg",
+  "5ee339de230de380": "plugins/rcp-fe-lol-postgame/global/default/sfx-postgame-button-playagain-click.ogg",
+  "f3a83262ae3c8d88": "plugins/rcp-fe-lol-postgame/global/default/sfx-postgame-button-report-click.ogg",
+  "b3b0d44a7060dc03": "plugins/rcp-fe-lol-postgame/global/default/sfx-postgame-button-kudos-click.ogg"
+}

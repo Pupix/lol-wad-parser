@@ -15,10 +15,20 @@ var WadParser = require('lol-wad-parser'),
 
     wad.read('assets.wad', function (err, data) {
         console.log(data);
-        //  [
-        //    [Buffer ...]
-        //    [Buffer ...]
-        //  ]
+        //  ...
+        // {
+        //   pathHash: '493258d8dc25e145',
+        //   offset: 532843,
+        //   compressedFileSize: 874,
+        //   fileSize: 1850,
+        //   type: 1,
+        //   duplicate: 0,
+        //   unk: 0,
+        //   unk0: 0,
+        //   sha256: '2c982e477bb2af65',
+        //   fileName: 'plugins/rcp-fe-lol-uikit/global/default/components/animated-border-overlay/index.js'
+        // }
+        //  ...
     });
 
 ```

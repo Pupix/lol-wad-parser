@@ -1,0 +1,22 @@
+{
+  "7a99c53cbb99dd9f": "plugins/rcp-fe-lol-friend-finder/global/default/index.html",
+  "05e3ead749ec039d": "plugins/rcp-fe-lol-friend-finder/global/default/init.js",
+  "9299a700cd453996": "plugins/rcp-fe-lol-friend-finder/global/default/init.js.map",
+  "7a58546bdc78e069": "plugins/rcp-fe-lol-friend-finder/global/default/friend-finder-button.html",
+  "5828e6ebff3a9c1b": "plugins/rcp-fe-lol-friend-finder/global/default/friend-finder-modal.html",
+  "850790252349bf7d": "plugins/rcp-fe-lol-friend-finder/global/default/friend-finder-by-summoner-name.html",
+  "61b3499a86012293": "plugins/rcp-fe-lol-friend-finder/global/default/friend-finder-by-recently-played.html",
+  "c34d5ee1fa0ff69e": "plugins/rcp-fe-lol-friend-finder/global/default/friend-finder-by-social-network.html",
+  "e97be902abfdddfc": "plugins/rcp-fe-lol-friend-finder/global/default/trans.json",
+  "09841e6124c0415b": "plugins/rcp-fe-lol-friend-finder/global/default/sfx-soc-ui-click-generic.ogg",
+  "f4613152df3be723": "plugins/rcp-fe-lol-friend-finder/global/default/sfx-soc-ui-statuswindow-open.ogg",
+  "c57a3a118e6809d2": "plugins/rcp-fe-lol-friend-finder/global/default/sfx-soc-ui-statuswindow-close.ogg",
+  "8cceac7cba9365a4": "plugins/rcp-fe-lol-friend-finder/global/default/sfx-soc-notif-success.ogg",
+  "66cb1d3e5d8a69dc": "plugins/rcp-fe-lol-friend-finder/global/default/sfx-lobby-suggested-tab-click.ogg",
+  "6b7c86d4dc319801": "plugins/rcp-fe-lol-friend-finder/global/default/add_person_mask.png",
+  "a41bfb34b40479b2": "plugins/rcp-fe-lol-friend-finder/global/default/poro_sleeping.png",
+  "4c094599a324c073": "plugins/rcp-fe-lol-friend-finder/global/default/images/search_mask.png",
+  "b88e11d6adaeffda": "plugins/rcp-fe-lol-friend-finder/global/default/images/add_person_mask.png",
+  "baa5aee7359b9591": "plugins/rcp-fe-lol-friend-finder/global/default/images/poro_sad.png",
+  "db533a5e1f4d4461": "plugins/rcp-fe-lol-friend-finder/global/default/images/poro_sleeping.png"
+}

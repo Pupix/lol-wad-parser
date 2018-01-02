@@ -1,0 +1,22 @@
+{
+  "74a40e696da50e8d": "plugins/rcp-fe-lol-typekit/global/default/index.html",
+  "495d7844058dd176": "plugins/rcp-fe-lol-typekit/global/default/init.js",
+  "853b9ac03bf07805": "plugins/rcp-fe-lol-typekit/global/default/init.js.map",
+  "ddd7e14286459a30": "plugins/rcp-fe-lol-typekit/global/default/fonts/fonts.css",
+  "d33a25ac47b90653": "plugins/rcp-fe-lol-typekit/global/default/fonts/spiegel/Spiegel-Regular.otf",
+  "1fd3fe545a9bc190": "plugins/rcp-fe-lol-typekit/global/default/fonts/spiegel/Spiegel-SemiBold.otf",
+  "1c941826bd2b6c89": "plugins/rcp-fe-lol-typekit/global/default/fonts/spiegel/Spiegel-Bold.otf",
+  "25076e08c84416b0": "plugins/rcp-fe-lol-typekit/global/default/fonts/spiegel/Spiegel-RegularItalic.otf",
+  "cf4520e728116da6": "plugins/rcp-fe-lol-typekit/global/default/fonts/spiegel/Spiegel-SemiBoldItalic.otf",
+  "06d0e4be22345837": "plugins/rcp-fe-lol-typekit/global/default/fonts/spiegel/Spiegel-BoldItalic.otf",
+  "806fa822325fcd1e": "plugins/rcp-fe-lol-typekit/global/default/fonts/beaufort/BeaufortForLoL-Light.otf",
+  "301b4fd85ea71e02": "plugins/rcp-fe-lol-typekit/global/default/fonts/beaufort/BeaufortForLoL-Regular.otf",
+  "81402e8063d12582": "plugins/rcp-fe-lol-typekit/global/default/fonts/beaufort/BeaufortForLoL-Medium.otf",
+  "10f113b539b64654": "plugins/rcp-fe-lol-typekit/global/default/fonts/beaufort/BeaufortForLoL-Bold.otf",
+  "8fde39f7966fc921": "plugins/rcp-fe-lol-typekit/global/default/fonts/beaufort/BeaufortForLoL-Heavy.otf",
+  "80b7980ac21a78ea": "plugins/rcp-fe-lol-typekit/global/default/fonts/beaufort/BeaufortForLoL-LightItalic.otf",
+  "e52e57bc48b1e3c8": "plugins/rcp-fe-lol-typekit/global/default/fonts/beaufort/BeaufortForLoL-Italic.otf",
+  "f9658a35c415690a": "plugins/rcp-fe-lol-typekit/global/default/fonts/beaufort/BeaufortForLoL-MediumItalic.otf",
+  "c0c8438f24d565f1": "plugins/rcp-fe-lol-typekit/global/default/fonts/beaufort/BeaufortForLoL-BoldItalic.otf",
+  "701671cdca5f8322": "plugins/rcp-fe-lol-typekit/global/default/fonts/beaufort/BeaufortForLoL-HeavyItalic.otf"
+}

@@ -1,0 +1,14 @@
+{
+  "2eb23dd1d7c58afb": "plugins/rcp-fe-lol-splash/global/default/index.html",
+  "301cb451bf2c761c": "plugins/rcp-fe-lol-splash/global/default/bundle.js",
+  "5a8a7aacb5a6d6b1": "plugins/rcp-fe-lol-splash/global/default/bundle.js.map",
+  "8d918d5ea5caeb5e": "plugins/rcp-fe-lol-splash/global/default/image.jpg",
+  "10931afde8efa2a2": "plugins/rcp-fe-lol-splash/global/default/video.webm",
+  "5752c0469756a1bd": "plugins/rcp-fe-lol-splash/global/default/riot-logo.png",
+  "cfb169c7009ccdb0": "plugins/rcp-fe-lol-splash/global/default/line-vertical-fade.png",
+  "7ff269b7d08e3228": "plugins/rcp-fe-lol-splash/global/default/button-replay.png",
+  "787e8e3161bac680": "plugins/rcp-fe-lol-splash/global/default/button-replay-hover.png",
+  "4177eda6ed2be7a8": "plugins/rcp-fe-lol-splash/global/default/button-replay-active.png",
+  "153e874863667a3d": "plugins/rcp-fe-lol-splash/global/default/ambience.ogg",
+  "aae074e24c2dc2c0": "plugins/rcp-fe-lol-splash/global/default/sfx-login-button-replay-click.ogg"
+}

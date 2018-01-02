@@ -1,0 +1,17 @@
+{
+  "f11b3c66d769c923": "plugins/rcp-fe-lol-player-notifications/global/default/index.html",
+  "c99e8146272663e4": "plugins/rcp-fe-lol-player-notifications/global/default/init.js",
+  "804079a7ffb964f4": "plugins/rcp-fe-lol-player-notifications/global/default/css/main.css",
+  "24a54bcd237894b6": "plugins/rcp-fe-lol-player-notifications/global/default/notifications-button.html",
+  "7377f7aeb1512d9f": "plugins/rcp-fe-lol-player-notifications/global/default/notifications-tray.html",
+  "34ca637e5e2b68c0": "plugins/rcp-fe-lol-player-notifications/global/default/notifications-item.html",
+  "621cae0b3436371b": "plugins/rcp-fe-lol-player-notifications/global/default/notifications-toast.html",
+  "e7287962e48da8af": "plugins/rcp-fe-lol-player-notifications/global/default/notifications-default-toast.html",
+  "bad067cb2b0748ab": "plugins/rcp-fe-lol-player-notifications/global/default/icon_declineall.png",
+  "4ced572da04eadbc": "plugins/rcp-fe-lol-player-notifications/global/default/notifications_button_icon.png",
+  "a2df9bfc0d1fbd26": "plugins/rcp-fe-lol-player-notifications/global/default/x_thin_mask.png",
+  "97db10cff6ce1299": "plugins/rcp-fe-lol-player-notifications/global/default/images/icon_declineall.png",
+  "6c9365e9bf619329": "plugins/rcp-fe-lol-player-notifications/global/default/images/notifications_button_icon.png",
+  "e1e9cf2f48e2fa93": "plugins/rcp-fe-lol-player-notifications/global/default/images/x_thin_mask.png",
+  "fdc5e71981b25f52": "plugins/rcp-fe-lol-player-notifications/global/default/trans.json"
+}
